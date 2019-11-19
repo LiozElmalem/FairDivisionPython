@@ -1,5 +1,10 @@
 #!python3
 
+
+# Authors : Lioz elmalem and Ron mor
+
+
+
 import networkx as nx
 import numpy as np
 
